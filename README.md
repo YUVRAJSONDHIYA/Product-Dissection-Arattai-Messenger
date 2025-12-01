@@ -1,4 +1,4 @@
-📱 Arattai Messenger – Database Schema & ER Diagram
+### 📱 Arattai Messenger – Database Schema & ER Diagram
 
 A complete relational database design for Arattai Messenger, showcasing how a modern messaging platform manages users, chats, messages, groups, calls, media, and system interactions.
 
